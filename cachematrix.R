@@ -1,7 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
 ## The function makeCacheMatrix defines a way to set and get variables.
 ##In this particular case the inverse of the matrix is calculated in the function
 ##cacheSolve and the values are set in makeCacheMatrix.
